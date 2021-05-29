@@ -1,4 +1,4 @@
 # rock-paper-scissors
 
-reference <\b>
+reference: <br />
 https://github.com/DrGFreeman/rps-cv
